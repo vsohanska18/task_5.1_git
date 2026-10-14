@@ -1,12 +1,9 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+#include "h.h"
 using namespace std;
 
-double h(double x, double y)
-{
-    return (x * x + sin(x * y) + y * y) / (1 + x * x + y * y);
-}
 int main()
 {
     double s, t, z;
