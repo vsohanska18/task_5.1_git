@@ -1,0 +1,5 @@
+lab_5.1
+test_h
+*.dSYM/
+build/
+.vscode/c_cpp_properties.json
